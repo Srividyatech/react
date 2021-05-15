@@ -1,6 +1,6 @@
 import React from 'react';
-import ValidatedLoginForm from "./ValidatedLoginForm";
 import "./style.css";
+import ValidatedLoginForm from './ValidatedLoginForm';
 
 function App() {
     return(
